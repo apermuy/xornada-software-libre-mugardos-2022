@@ -3,21 +3,51 @@
 
 ## Presentación da xornada
 
-## Historia
+* Benvida
+* Presentación da asociación
+* Historia das xornadas
+* Comezamos?
+
+## Historia Linux
 
 Proxección inicio do documental [Código Linux](https://www.youtube.com/watch?v=r6Iuxk5pPmY) 
 
 ## Que é unha distribución
-TODO
+
+* Colección de software baseada no núcleo de Linux que inclué determinados paquetes para satisfacer as necesidades dun grupo de específico de usuarios/as. 
+
+* O motivo principal da existencia das distribucións é o proxecto [GNU](https://www.gnu.org/home.es.html) e á súa filosofía, que, en resumo, permite que calquera persoa ou organización teña acceso ó código fonte, modificalo e redistribuilo. 
+
+* Cada distribución ten o seu grupo de utilidades e contextos: Escritorio, servidor, multimedia, científicas...
+
+### Pezas dunha distribución
+
+#### Kernel de Linux
+
+#### Utilidades
+
+Shell, utilidades de rede, sistema de arquivos....etc.
+
+#### Software engadido 
+
+Ofimática, desenvolvemento, seguridade, multimedia...
+
+#### Servizos
 
 ## Listaxe de distribucións
 
+* [Galpon Minino](https://minino.galpon.org/es)
 * [Debian GNU/Linux](https://www.debian.org/)
 * [Fedora](https://getfedora.org/es/)
 * [Arch Linux](https://archlinux.org/)
-* [Ubuntu](https://ubuntu.com/download)
+* [Gentoo](https://www.gentoo.org/)
 * [Manjaro](https://manjaro.org/download/)
+* [OpenSuSE](https://www.opensuse.org/)
 * [Deepin](https://www.deepin.org/index/en)
+* [Ubuntu](https://ubuntu.com/download)
+* [elementaryOS](https://elementary.io/)
+* [Tails](https://tails.boum.org/)
+* [Kali Linux](https://www.kali.org/)
 
 ## Escritorios en Linux 
 
